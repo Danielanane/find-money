@@ -1,0 +1,27 @@
+.anane{
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.anane ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+.anane ul li a{
+     text-decoration: none;
+     color: black;
+     font-weight: bold;
+
+}
+.martial{
+    width: 1000px;
+    height: 500px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+}
